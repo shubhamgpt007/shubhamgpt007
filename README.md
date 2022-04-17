@@ -1,5 +1,5 @@
 ### Hi there 👋,
-My Name is Shubham Gupta. Currently I am doing my PHD in "Event Detection in Social Streams" from IIT Jodhpur. I have finished my Metch from IIT Joodhpur and before that I was working in NTT Data (formerly known as Dell International Services) for 4 years. I have worked on technologies like Python, Tensoflow, Keras, OpenCV, Pytorch, Java, OSB and SOA. I am always keen to explore new areas in technology and always believe that new ideas can come from any moment of your life.
+My Name is Shubham Gupta. I have finished my Metch from IIT Joodhpur and before that I was working in NTT Data (formerly known as Dell International Services) for 4 years. I have worked on technologies like Python, Tensoflow, Keras, OpenCV, Pytorch, Java, OSB and SOA. I am always keen to explore new areas in technology and always believe that new ideas can come from any moment of your life.
 
 - 🔭 I’m currently working on event detection area and exploring different ways of machine learning to achieve that.
 - 📫 reach me at gupta.37@iitj.ac.in
